@@ -2,7 +2,7 @@
 
 ## Finished Product
 
-### [🔗Project Link](https://TylerFruik.github.io/readme-generator/) 
+### [🔗Project Link]([https://TylerFruik.github.io/readme-generator](https://youtu.be/tj0g_ar8f7w)/) 
 This program (When run with Node.js) returns a custom README file formatted for the submissions to this bootcamp. The "Assignment Information" section will still need to be filled out manually though it is a simple matter of copy/paste. All packages and dependencies are installed and up to date as of 12/15/2023
 
 This project was developed using the following skills: JS,Node.js
